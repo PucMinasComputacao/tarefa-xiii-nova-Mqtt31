@@ -7,8 +7,8 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Pedro Afonso Marquetotti
+- Matricula: 916924
 
 ## Prints do trabalho
 
